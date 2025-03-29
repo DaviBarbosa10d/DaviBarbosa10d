@@ -2,7 +2,8 @@
 
 
 - 🔭 Apaixonado por programação
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas 2/5
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas 4/5
+- 🔧📔 Gestão da Tecnologia da Informação
 <div align="center">
   <a href="https://github.com/DaviBarbosa10d">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviBarbosa10d&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
