@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonado por tecnologia e natureza
-- 🌱 Graduado em Análise e Desenvolvimento de Sistemas 4/5
+- 🌱 Graduado em Análise e Desenvolvimento de Sistemas 
 - 🔧📔 Analista de Redes e Comunicação de Dados
 <div align="center">
   <a href="https://github.com/DaviBarbosa10d">
