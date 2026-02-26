@@ -1,9 +1,9 @@
 ### Olá, sou o Davi.
 
 
-- 🔭 Apaixonado por programação
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas 4/5
-- 🔧📔 Gestão da Tecnologia da Informação
+- 🔭 Apaixonado por tecnologia e natureza
+- 🌱 Graduado em Análise e Desenvolvimento de Sistemas 4/5
+- 🔧📔 Analista de Redes e Comunicação de Dados
 <div align="center">
   <a href="https://github.com/DaviBarbosa10d">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviBarbosa10d&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
